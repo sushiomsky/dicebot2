@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/DiceBot.Core/DiceBot.Core.csproj" />
+  <Project Path="src/DiceBot.Cli/DiceBot.Cli.csproj" />
+  <Project Path="tests/DiceBot.Core.Tests/DiceBot.Core.Tests.csproj" />
+</Solution>
